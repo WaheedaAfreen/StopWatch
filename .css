@@ -1,0 +1,38 @@
+.war {
+  background-color: rgb(208, 126, 126);
+}
+
+.wrapper {
+  background-color: rgb(177, 134, 216);
+  width: 50%;
+  height: 400px;
+  margin-left: 300px;
+  border-radius: 20px;
+  margin-top: 150px;
+  border: 10px rgb(179, 46, 121);
+  text-align: center;
+}
+
+#btn-start{
+  background-color: rgb(88, 179, 104);
+  border-radius: 5px;
+  font-size:30px ;
+  padding: 15px;
+ 
+}
+
+#btn-stop{
+  background-color: rgb(197, 59, 59);
+  border-radius: 5px;
+  font-size:30px ;
+  padding: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#btn-reset{
+  background-color: rgb(50, 155, 125);
+  border-radius: 5px;
+  font-size:30px ;
+  padding: 15px;
+}
